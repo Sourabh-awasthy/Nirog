@@ -1,5 +1,5 @@
-﻿# the_Trailblazers
-NIROG 
+﻿# NIROG 
+by the_Trailblazers
 (A Systematic Patient Treatment Model in Govt. Hospitals of  INDIA)
 
 
